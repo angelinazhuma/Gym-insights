@@ -1,4 +1,4 @@
-# Fitness Insights: Analyzing Exercise Patterns and Performance Across Experience Levels
+# Gym Insights: Analyzing Exercise Patterns and Performance Across Experience Levels
 Team members:
 - Angelina Zhumadilova
 ## Project Motivation and Goals
