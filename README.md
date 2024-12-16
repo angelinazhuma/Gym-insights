@@ -2,16 +2,21 @@
 Team members:
 - Angelina Zhumadilova
 ## Project Motivation and Goals
-Understanding how gym users at different levels of experience (beginner, intermediate, and advanced) behave during their workouts provides valuable insights for:
-- Gym Trainers: To create fitness plans tailored to specific skill levels.
-- Gyms: To allocate resources such as equipment based on member preferences.
-- Fitness App Developers: To improve personalization algorithms for better user experiences.
+Fitness is a personal journey, yet gyms often face challenges in
+tailoring resources and plans to diverse member needs. By
+analyzing gym data, this project identifies patterns and trends in
+workouts, helping trainers and fitness apps provide personalized
+recommendations. The ultimate goal is to optimize the fitness
+experience for all levels, improving satisfaction, performance, and
+resource allocation through actionable insights.
+I analyzed a dataset containing information about gym-goers'
+demographics, workout types, and performance metrics.
 ## Project Goals
 - Data Cleaning: Standardize and preprocess the dataset for analysis.
 - Data Visualization: Create compelling visualizations to explore trends, identify workout patterns, and highlight key differences across experience levels.
 - Classification Model: Develop a machine learning model to predict a gym member's experience level.
 - Regression Model: Build a predictive model to estimate calories burned during workouts.
-- Reccomendations & Insights: Analyze the findings to provide actionable recommendations for optimizing gym operations, tailoring fitness plans, and improving fitness app personalization.
+- Recommendations & Insights: Analyze the findings to provide actionable recommendations for optimizing gym operations, tailoring fitness plans, and improving fitness app personalization.
 ## Repository Contents
 ### 1. Dataset
 - File: gym_members_exercise_tracking.csv
