@@ -22,7 +22,7 @@ demographics, workout types, and performance metrics.
 - File: gym_members_exercise_tracking.csv
 - Source: https://www.kaggle.com/datasets/valakhorasani/gym-members-exercise-dataset/data
 - Description: dataset provides a detailed overview of gym members' exercise routines, physical attributes, and fitness metrics. It contains 973 samples of gym data, including key performance indicators such as heart rate, calories burned, and workout duration.
-- gym_members_exercise_cleaned_csv - data after cleaning to train model
+- gym_members_exercise_cleaned.csv - data after cleaning to train model
 #### Data Format:
 - Age: Age of the gym member.
 - Gender: Gender of the gym member (Male or Female).
